@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Matheus/Desktop/monogame-engine/Content/background2.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/background2.xnb","TextureProcessor","Texture2DContent",1093613,19939285,0,4939822
+"C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter1.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/sprite-persona/helicopter1.xnb","TextureProcessor","Texture2DContent",29882,79125,0,0035335
+"C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter2.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/sprite-persona/helicopter2.xnb","TextureProcessor","Texture2DContent",21751,79125,0,0030323
+"C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter3.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/sprite-persona/helicopter3.xnb","TextureProcessor","Texture2DContent",23253,79125,0,0035802
+"C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter4.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/sprite-persona/helicopter4.xnb","TextureProcessor","Texture2DContent",28989,79125,0,0029227
+"C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter5.png","C:/Users/Matheus/Desktop/monogame-engine/Content/bin/DesktopGL/sprite-persona/helicopter5.xnb","TextureProcessor","Texture2DContent",29740,79125,0,0025762

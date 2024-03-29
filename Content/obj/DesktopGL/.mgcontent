@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/background1.jpg</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/background2.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/Music.mp3</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/obstacule.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter1.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter2.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter3.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter4.png</File>
+    <File>C:/Users/Matheus/Desktop/monogame-engine/Content/sprite-persona/helicopter5.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
