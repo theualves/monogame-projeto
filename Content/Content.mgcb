@@ -55,7 +55,7 @@
 /processorParam:TextureFormat=Color
 /build:obstacule.png
 
-#begin sprite-persona/helicopter1.png
+#begin sprite-persona/sprite1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -65,9 +65,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:sprite-persona/helicopter1.png
+/build:sprite-persona/sprite1.png
 
-#begin sprite-persona/helicopter2.png
+#begin sprite-persona/sprite2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -77,9 +77,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:sprite-persona/helicopter2.png
+/build:sprite-persona/sprite2.png
 
-#begin sprite-persona/helicopter3.png
+#begin sprite-persona/sprite3.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -89,9 +89,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:sprite-persona/helicopter3.png
+/build:sprite-persona/sprite3.png
 
-#begin sprite-persona/helicopter4.png
+#begin sprite-persona/sprite4.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -101,9 +101,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:sprite-persona/helicopter4.png
+/build:sprite-persona/sprite4.png
 
-#begin sprite-persona/helicopter5.png
+#begin sprite-persona/sprite5.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -113,5 +113,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:sprite-persona/helicopter5.png
+/build:sprite-persona/sprite5.png
 

@@ -8,13 +8,13 @@ public class Player
     private Texture2D[] _images;
     private int _index;
     private Rectangle _position;
-    private const float SPEED = 500; // Ajuste conforme necessário
+    private const float SPEED = 500;
     private const int IMAGE_WIDTH = 100;
     private const int IMAGE_HEIGHT = 100;
     private Timer _timer;
     private Rectangle _movementBounds;
     private const float JUMP_SPEED = 500; // Velocidade do pulo
-    private const float GRAVITY = 1500; // Ajuste conforme necessário
+    private const float GRAVITY = 1500;
     private bool isJumping = false; // Flag para indicar se o jogador está pulando
     private float jumpVelocity = 0; // Velocidade vertical do pulo
     private bool isAKeyPressed = false; // Flag para indicar se a tecla A está pressionada
@@ -23,9 +23,9 @@ public class Player
     {
         _images = new Texture2D[5]
         {
-            content.Load<Texture2D>("helicopter/helicopter1"), content.Load<Texture2D>("helicopter/helicopter2"),
-            content.Load<Texture2D>("helicopter/helicopter3"), content.Load<Texture2D>("helicopter/helicopter4"),
-            content.Load<Texture2D>("helicopter/helicopter5")
+            content.Load<Texture2D>("sprite-persona/sprite1"), content.Load<Texture2D>("sprite-persona/sprite2"),
+            content.Load<Texture2D>("sprite-persona/sprite3"), content.Load<Texture2D>("sprite-persona/sprite4"),
+            content.Load<Texture2D>("sprite-persona/sprite5")
         };
     }
 
