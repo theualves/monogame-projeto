@@ -115,3 +115,15 @@
 /processorParam:TextureFormat=Color
 /build:sprite-persona/sprite5.png
 
+#begin sprite-persona/sprite6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:sprite-persona/sprite6.png
+
